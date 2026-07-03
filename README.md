@@ -16,4 +16,7 @@ Build an interactive executive dashboard that:
 3. Surfaces smart insight callouts — no hunting, problems flagged automatically
 4. Is boardroom-ready — clean, branded (navy + gold), printable as PDF
 
+<img width="892" height="770" alt="Screenshot 2026-07-03 131038" src="https://github.com/user-attachments/assets/cbd0a158-f2fd-4bd4-aae4-df7e14202d3e" />
+<img width="862" height="748" alt="Screenshot 2026-07-03 131112" src="https://github.com/user-attachments/assets/1e6686d6-5e4f-4892-bbd6-3596d00ff9d2" />
+<img width="886" height="748" alt="Screenshot 2026-07-03 131053" src="https://github.com/user-attachments/assets/abd61d6d-799e-440c-bd61-68044d4c2dea" />
 
